@@ -1,0 +1,11 @@
+--- flame-0.2.2/Cargo.toml	1969-12-31T16:00:00-08:00
++++ flame-0.2.2/Cargo.toml	2018-03-08T21:29:07.771541-08:00
+@@ -21,7 +21,7 @@
+ license = "MIT/Apache-2.0"
+ repository = "https://github.com/TyOverby/flame"
+ [dependencies.lazy_static]
+-version = "0.2.*"
++version = "1.*.*"
+ 
+ [dependencies.serde]
+ version = "1.*.*"
